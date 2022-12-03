@@ -1,3 +1,4 @@
+%Day1
 -module(calories).
 -export([main/1,main2/1]).
 

@@ -1,3 +1,4 @@
+%Day 2
 -module(rock).
 -export([main/1,main2/1]).
 main(File)->
